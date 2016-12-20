@@ -1,0 +1,6 @@
+accumulo
+  instance: cognition
+  zkhost: test.com:2181
+  username: root
+  password: secret
+  setup: true
